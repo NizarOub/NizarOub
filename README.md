@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nizar Oubbali</h1>
 <h3 align="center">A passionate full stack developer from Morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nizaroub&label=Profile%20views&color=0e75b6&style=flat" alt="nizaroub" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nizaroub" alt="nizaroub" /></a> </p>
-
 - 💬 Ask me about **Anything!**
 
 - 📫 How to reach me **nizar.oubbali@gmail.com**
