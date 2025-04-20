@@ -6,9 +6,9 @@
 </div>
 
 <div align="center">
-  - 🔭 I’m a **Software Engineer** at Leyton CognitX 
+  🔭 I’m a **Software Engineer** at Leyton CognitX 
   
-  - 📫 How to reach me **nizar.oubbali@gmail.com**
+  📫 How to reach me **nizar.oubbali@gmail.com**
 </div>
 
 <h3 align="center">Connect with me:</h3>
