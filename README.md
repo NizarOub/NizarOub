@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nizar</h1>
 <h3 align="center">I'm interested in anything related to Front/Back end</h3>
 
-- 🔭 I’m a **Software Engineer** at Leyton CognitX 
+<div align="center">
+  <img align="center" alt="Coding" width="400" src="https://github.com/NizarOub/NizarOub/blob/main/silent-power.gif">
+</div>
 
-- 📫 How to reach me **nizar.oubbali@gmail.com**
+<div align="center">
+  - 🔭 I’m a **Software Engineer** at Leyton CognitX 
+  
+  - 📫 How to reach me **nizar.oubbali@gmail.com**
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
